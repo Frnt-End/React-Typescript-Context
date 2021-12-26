@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Typescript-Context/static/css/main.073c9b0a.css",
-    "main.js": "/React-Typescript-Context/static/js/main.390b9397.js",
+    "main.css": "/React-Typescript-Context/static/css/main.7662f61a.css",
+    "main.js": "/React-Typescript-Context/static/js/main.5ca64472.js",
     "static/js/787.b9b613f2.chunk.js": "/React-Typescript-Context/static/js/787.b9b613f2.chunk.js",
-    "static/media/logo.svg": "/React-Typescript-Context/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/team.jpg": "/React-Typescript-Context/static/media/team.1ea5fe75fe9010d86d98.jpg",
+    "static/media/bg.jpg": "/React-Typescript-Context/static/media/bg.6704982872520b19f2cc.jpg",
+    "static/media/author.png": "/React-Typescript-Context/static/media/author.f1dce96fb5d9afc9953e.png",
     "index.html": "/React-Typescript-Context/index.html",
-    "main.073c9b0a.css.map": "/React-Typescript-Context/static/css/main.073c9b0a.css.map",
-    "main.390b9397.js.map": "/React-Typescript-Context/static/js/main.390b9397.js.map",
+    "main.7662f61a.css.map": "/React-Typescript-Context/static/css/main.7662f61a.css.map",
+    "main.5ca64472.js.map": "/React-Typescript-Context/static/js/main.5ca64472.js.map",
     "787.b9b613f2.chunk.js.map": "/React-Typescript-Context/static/js/787.b9b613f2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.390b9397.js"
+    "static/css/main.7662f61a.css",
+    "static/js/main.5ca64472.js"
   ]
 }
