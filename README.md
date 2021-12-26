@@ -1,9 +1,11 @@
-# 'Create Your Own Team' App
+# 'Create Your Winning Team' App
 
- Creating members profiles cards using React, Typescript & Context Hook.
+Creating members profiles cards using React, Typescript & Context Hook.
  In this app you will be creating your Top-5 Elite Team using a form.
 
 👉 [Watch DEMO](https://frnt-end.github.io/React-Typescript-Context/)
+
+![Create List Form](<src/Img/bg-small.png> "Create List Form")
 
 ##  Project Architecture
 
