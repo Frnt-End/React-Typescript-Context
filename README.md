@@ -1,8 +1,9 @@
-# 'Create Your Own Team' - Creating Profiles List App
+# 'Create Your Own Team' App
 
- Creating Top-5 members profiles cards using a form.
+ Creating members profiles cards using React, Typescript & Context Hook.
+ In this app you will be creating your Top-5 Elite Team using a form.
 
-👉 [Watch DEMO](https://Frnt-End.github.io/List-Form-React-Context-Typescript)
+👉 [Watch DEMO](https://frnt-end.github.io/React-Typescript-Context/)
 
 ##  Project Architecture
 
@@ -21,10 +22,10 @@
 In your fav IDE: navigate to the main folder and type in the terminal:
 ##### `npm start` or  `yarn start`
 
-👉 [Online DEMO](https://Frnt-End.github.io/List-Form-React-Context-Typescript)
+👉 [Online DEMO](https://frnt-end.github.io/React-Typescript-Context/)
 
 ***
-Enjoy using the app..!
+Enjoy using the app..😉
 ***
 
 ### License
