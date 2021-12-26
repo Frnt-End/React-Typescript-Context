@@ -1,26 +1,64 @@
-import React from 'react';
-import logo from './logo.svg';
+import React, { useState } from 'react';
+import { AppProvider } from './Contexts/AppCntxt'
 import './App.css';
+import List from './Components/List';
+import FormList from './Components/FormList';
+
+export interface IState {
+  users: {
+    img: string,
+    name: string,
+    position: string
+    note?: string
+  }[]
+}
+
+
+export const avatarUrl = {
+  young: "http://carismartes.com.br/assets/global/images/avatars/avatar5_big@2x.png",
+  female: "http://carismartes.com.br/assets/global/images/avatars/avatar10_big@2x.png",
+  adult: "http://carismartes.com.br/assets/global/images/avatars/avatar2_big@2x.png",
+  other: "http://carismartes.com.br/assets/global/images/avatars/avatar4_big@2x.png",
+  unique: "http://carismartes.com.br/assets/global/images/avatars/avatar13_big@2x.png"
+}
+
+
 
 function App() {
+
+
+  const [users, setUsers] = useState<IState["users"]>([
+    {
+      name: "Jonas Kernn",
+      position: "Frontend Engineer",
+      img: avatarUrl.other,
+      note: "Loves weekends..😉!"
+    },
+    {
+      name: "Morin Levi",
+      position: "Backend Engineer",
+      img: avatarUrl.young,
+      note: "Addicted to smoothies..🥤"
+    }
+  ])
+
+
+
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <AppProvider>
+        <div className="app">
+            <div className="header">
+              <FormList setUsers={setUsers} users={users} maxlength={20} />
+              <List users={users} />
+            </div>
+        </div>
+      </AppProvider>
+
+        </>
   );
 }
+
 
 export default App;
