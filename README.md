@@ -33,6 +33,6 @@ Enjoy using the app..😉
 ### License
 
 Copyright © 2019 @frnt-end
-[nirit.website](https:///nirit.website)
+[nirit.website](https://nirit.website)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)

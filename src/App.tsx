@@ -15,11 +15,11 @@ export interface IState {
 
 
 export const avatarUrl = {
-  young: "http://carismartes.com.br/assets/global/images/avatars/avatar5_big@2x.png",
-  female: "http://carismartes.com.br/assets/global/images/avatars/avatar10_big@2x.png",
-  adult: "http://carismartes.com.br/assets/global/images/avatars/avatar2_big@2x.png",
-  other: "http://carismartes.com.br/assets/global/images/avatars/avatar4_big@2x.png",
-  unique: "http://carismartes.com.br/assets/global/images/avatars/avatar13_big@2x.png"
+  young: "https://carismartes.com.br/assets/global/images/avatars/avatar5_big@2x.png",
+  female: "https://carismartes.com.br/assets/global/images/avatars/avatar10_big@2x.png",
+  adult: "https://carismartes.com.br/assets/global/images/avatars/avatar2_big@2x.png",
+  other: "https://carismartes.com.br/assets/global/images/avatars/avatar4_big@2x.png",
+  unique: "https://carismartes.com.br/assets/global/images/avatars/avatar13_big@2x.png"
 }
 
 

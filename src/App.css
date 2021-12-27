@@ -524,24 +524,37 @@ input[data-autocompleted] {
   .header {
     padding: 0;
     position: relative;
+    display: block;
+  }
+  .team-done {
+    width: 95%;
+  }
+  .team-done h2 {
+    font-size: 7vw;
+  }
+  .team-done p.done {
+    font-size: 3.3vw;
   }
   .list-form {
-    width: 80vw;
+    width: 100vw;
   }
   .list-form h1 {
-    font-size: 4.7vw;
+    font-size: 8.7vw;
   }
   .list-form h2 {
-    font-size: 2.9vw;
+    font-size: 3.9vw;
   }
   .list-form p {
     font-size: 2.6vw;
   }
   .list-form input[type=text], .list-form textarea, .list-form h4 {
-    font-size: 2.6vw;
+    font-size: 3.2vw;
+  }
+  .formError {
+      font-size: .7em;
   }
   .list-form button {
-    font-size: 3.1vw;
+    font-size: 3.5vw;
   }
   .team-title {
     font-size: 4.5vw;
@@ -569,6 +582,9 @@ input[data-autocompleted] {
 }
 .author {
   border-top: 1px solid #bdbdbd;
+}
+.author-container div>p {
+  font-size: 3vw;
 }
 }
 
