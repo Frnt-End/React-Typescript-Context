@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Typescript-Context/static/css/main.7662f61a.css",
+    "main.css": "/React-Typescript-Context/static/css/main.e995f1f5.css",
     "main.js": "/React-Typescript-Context/static/js/main.f51b90ad.js",
     "static/media/team.jpg": "/React-Typescript-Context/static/media/team.1ea5fe75fe9010d86d98.jpg",
     "static/media/bg.jpg": "/React-Typescript-Context/static/media/bg.6704982872520b19f2cc.jpg",
     "static/media/author.png": "/React-Typescript-Context/static/media/author.f1dce96fb5d9afc9953e.png",
     "index.html": "/React-Typescript-Context/index.html",
-    "main.7662f61a.css.map": "/React-Typescript-Context/static/css/main.7662f61a.css.map",
+    "main.e995f1f5.css.map": "/React-Typescript-Context/static/css/main.e995f1f5.css.map",
     "main.f51b90ad.js.map": "/React-Typescript-Context/static/js/main.f51b90ad.js.map"
   },
   "entrypoints": [
-    "static/css/main.7662f61a.css",
+    "static/css/main.e995f1f5.css",
     "static/js/main.f51b90ad.js"
   ]
 }
