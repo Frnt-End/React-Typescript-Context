@@ -20,7 +20,7 @@ const FormList: React.FC<IProps> = ({ setUsers, users, maxlength }) => {
 
 
     const [input, setInput] = useState({
-        img: "https://carismartes.com.br/assets/global/images/avatars/avatar5_big@2x.png",
+        img: "https://nirit.website/projects/react-typescript-context/img/avatar5.png",
         name: "",
         position: "",
         note: ""
