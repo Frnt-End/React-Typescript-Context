@@ -1,38 +1,41 @@
 # 'Create Your Winning Team' App
 
 Creating members profiles cards using React, Typescript & Context Hook.
- In this app you will be creating your Top-5 Elite Team using a form.
+In this app you will be creating your Top-5 Elite Team using a form.
 
 👉 [Watch DEMO](https://frnt-end.github.io/React-Typescript-Context/)
 
-![Create List Form](<src/Img/bg-small.png> "Create List Form")
+![Create List Form](src/Img/bg-small.png "Create List Form")
 
-##  Project Architecture
+## Project Architecture
 
-* **React** and **Typescript** app.
-* Using **useEffect** and **useState** hooks.
-* Global state managmaent using **context**.
+- **React** and **Typescript** app.
+- Using **useEffect** and **useState** hooks.
+- Global state managmaent using **context**.
 
-##  UI
+## UI
 
-* Choosing profile images using **radio buttons**.
-* **CSS** hover effects and transitions.
-* **Responsive**.
+- Choosing profile images using **radio buttons**.
+- **CSS** hover effects and transitions.
+- **Responsive**.
 
-##  Local View
+## Local View
 
 In your fav IDE: navigate to the main folder and type in the terminal:
-##### `npm start` or  `yarn start`
+
+##### `npm start` or `yarn start`
 
 👉 [Online DEMO](https://frnt-end.github.io/React-Typescript-Context/)
 
-***
+---
+
 Enjoy using the app..😉
-***
+
+---
 
 ### License
 
 Copyright © 2019 @frnt-end
-[nirit.website](https://nirit.website)
+[Portfolio Website](https://frnt-end.github.io/portfolio/)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
